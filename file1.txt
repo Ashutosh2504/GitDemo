@@ -4,3 +4,5 @@ changes in staging area
 changes in working directory
 doing changes related to fast forward merge
 2nd time change
+new changes for merge without conflicts
+extra changes 
